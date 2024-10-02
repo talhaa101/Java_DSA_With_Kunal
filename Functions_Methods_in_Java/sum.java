@@ -17,3 +17,9 @@ public class sum {
     }
 
 }
+
+
+
+// cin >> n ;
+
+//
